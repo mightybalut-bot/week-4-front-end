@@ -1,5 +1,5 @@
 // IMPORTANT - substitute your own backend url!
-const API_BACKEND_URL = "https://week-4-backend-ashy.vercel.app/";  
+const API_BACKEND_URL = "https://your-own-backend-url.vercel.app";  
 
 const itemName = document.getElementById('inpName');
 const itemDesc = document.getElementById('inpDesc');
