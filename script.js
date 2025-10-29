@@ -1,5 +1,5 @@
 // IMPORTANT - substitute your own backend url!
-const API_BACKEND_URL = "https://your-own-backend-url.vercel.app";  
+const API_BACKEND_URL = "https://github.dev/mightybalut-bot/Week-4-backend";  
 
 const itemName = document.getElementById('inpName');
 const itemDesc = document.getElementById('inpDesc');
