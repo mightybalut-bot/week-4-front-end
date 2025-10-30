@@ -23,7 +23,7 @@ async function addItem() {
     // could check that name,desc are not blank
 
     // call the back-end route that adds a record
-    await fetch(`${API_BACKEND_URL}/item`, {
+    await fetch(`${https://github.dev/mightybalut-bot/Week-4-backend}/item`, {
         method: 'POST',
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ new_item_name,new_item_desc }),
